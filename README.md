@@ -103,4 +103,4 @@
 #### When you click to start the program, access the mapping using the website above.
 </div>
 
-<br><br><div align="right">Exception handling documentation will be updated furthermore</div>
+###### <br><br><div align="right">Exception handling documentation will be updated furthermore</div>
