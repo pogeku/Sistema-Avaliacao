@@ -77,21 +77,18 @@
 
 <br>
 
-#### 
-##### `Tratamento de Erros:`
----
 ### <div align="center">Notas Usuarios Controller</div>
 
 <br>
 
-####
+#### Recebe uma requisição `GET` para `BUSCAR` usuários com mais de duas avaliações, somando as notas do usuário e dividindo pela quantidade de avaliações de cada usuário. <br> Retorna todos os usuários com suas médias e suas notas fornecidas.
 ##### `Tratamento de Erros:`
 ---
 <img src="./images/NotasUsuariosController/getAllMediaUsuario.png">
 
 <br>
 
-####
+#### Recebe uma requisição `GET` para `BUSCAR` usuários com mais de duas avaliações, somando as notas do usuário e dividindo pela quantidade de avaliações de cada usuário. <br> Retorna a média fornecida para o usuário com o ID solicitado.
 ##### `Tratamento de Erros:`
 ---
 <img src="./images/NotasUsuariosController/mediaDeUmUsuario.png">
